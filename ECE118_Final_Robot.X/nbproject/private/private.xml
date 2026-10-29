@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/gavinwang/Desktop/mech/ECE118/src/RC_Servo.c</file>
+            <file>file:/Users/gavinwang/Desktop/mech/MPLABXProjects/ECE118_Final_Robot.X/TopHSM.c</file>
+            <file>file:/Users/gavinwang/Desktop/mech/ECE118/src/ES_Framework.c</file>
+            <file>file:/Users/gavinwang/Desktop/mech/ECE118/include/Stepper.h</file>
+            <file>file:/Users/gavinwang/Desktop/mech/ECE118/include/pwm.h</file>
+            <file>file:/Users/gavinwang/Desktop/mech/ECE118/src/pwm.c</file>
+            <file>file:/Users/gavinwang/Desktop/mech/ECE118/src/ES_CheckEvents.c</file>
+        </group>
+    </open-files>
+</project-private>
